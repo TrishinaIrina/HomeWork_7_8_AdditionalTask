@@ -1,0 +1,5 @@
+C:\Users\irish\My documents\C#\HomeWork_7_8(additional task)\bin\Debug\HomeWork_7_8(additional task).dll
+C:\Users\irish\My documents\C#\HomeWork_7_8(additional task)\bin\Debug\HomeWork_7_8(additional task).pdb
+C:\Users\irish\My documents\C#\HomeWork_7_8(additional task)\obj\Debug\HomeWork_7_8.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\HomeWork_7_8(additional task)\obj\Debug\HomeWork_7_8(additional task).dll
+C:\Users\irish\My documents\C#\HomeWork_7_8(additional task)\obj\Debug\HomeWork_7_8(additional task).pdb

@@ -1,0 +1,10 @@
+C:\Users\irish\My documents\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\irish\My documents\C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\irish\My documents\C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\irish\My documents\C#\ConsoleApp1\bin\Debug\HomeWork_7_8(additional task).dll
+C:\Users\irish\My documents\C#\ConsoleApp1\bin\Debug\HomeWork_7_8(additional task).pdb
+C:\Users\irish\My documents\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\irish\My documents\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\irish\My documents\C#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\irish\My documents\C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\irish\My documents\C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
